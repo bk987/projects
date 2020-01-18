@@ -1,5 +1,5 @@
 ---
-permalink: /projects/laravel/forum/index.html
+permalink: /laravel/forum/index.html
 redirect_url: projects/laravel/forum
 ---
 
